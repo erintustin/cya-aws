@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4469c802.css",
+    "main.js": "/static/js/main.f5da0e27.js",
+    "static/media/squishmallow.png": "/static/media/squishmallow.bcb4fd7190255a60f60f.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/CYAlogo.png": "/static/media/CYAlogo.121f4776369db4a2a58f.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/feedbacklogo.png": "/static/media/feedbacklogo.ed3e42e8b1d1bb4a524d.png",
+    "static/media/cake.png": "/static/media/cake.519dec400c7ffaa6d0b0.png",
+    "static/media/confettiBg.png": "/static/media/confettiBg.a8893f7d6a645b443d1e.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/navlogo.png": "/static/media/navlogo.124da526bc8bba7b07f4.png",
+    "static/media/autistic-again.png": "/static/media/autistic-again.d792a994546304002ec9.png",
+    "index.html": "/index.html",
+    "main.4469c802.css.map": "/static/css/main.4469c802.css.map",
+    "main.f5da0e27.js.map": "/static/js/main.f5da0e27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4469c802.css",
+    "static/js/main.f5da0e27.js"
+  ]
+}

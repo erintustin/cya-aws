@@ -1,0 +1,186 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.content {
+  font-family: "Catamaran", sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  font-family: "Gochi Hand", sans-serif;
+  text-shadow: 2px 2px lightgray;
+  font-size: 50px;
+}
+
+h2 {
+  color: black;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Gochi Hand", sans-serif;
+  font-size: 30px;
+}
+
+h3#feedback-heading {
+  color: whitesmoke;
+}
+
+h4 {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h5 {
+  color: gray;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 10px;
+}
+
+h6 {
+  color: black;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+p {
+  color: black;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 12px;
+  margin-left: 20px;
+  
+}
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
+
+.jumbotron-top {
+  margin: 0px;
+  padding: 30px;
+  background-color: white;
+  background-image: url('./app/assets/img/confettiBg.png');
+}
+
+.title {
+  background-color: rgba(255, 255, 255, .8);
+  padding: 20px;
+  border: 1px solid black;
+  box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+}
+
+.logo-header {
+  width: 80%;
+}
+
+.navlogo {
+  height: 30px;
+  margin: 2px;
+}
+
+.header-card {
+  background-color: white;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.feedback {
+  background-color:#1ab4d2;
+  padding: 25px;
+}
+
+#feedback-logo {
+  max-width: 200px;
+}
+
+#welcome, #gettingstarted
+ {
+    background-color: rgb(243, 239, 239);
+    padding: 25px;
+}
+
+content {
+  text-align: left;
+}
+
+.card-header {
+  height: 100px;
+}
+
+.card {
+  min-height: 150px;
+  max-width: 300px;
+  margin: 0 0.5em;
+  box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);    
+  border: none;
+  border-radius: 10;
+}
+
+.card-img {
+  min-height:  150px;
+  max-height:  150px;
+}
+
+#filterNav {
+  position: sticky;
+  top: 75px;
+  width: 100%
+}
+
+.favorite-heart {
+  color: pink;
+}
+
+.img{
+  max-height: 200px;
+}
+
+.messages{
+  min-height: 200px;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+
+.carousel-control{
+  margin: -75px;
+  margin-bottom: 5px
+}
+
+.confetti{
+  background-image: url('./app/assets/img/confettiBg.png');
+}
+
+.featured-heading{
+  background-color: white;
+}
+
+.login-header{
+  background-color: #1ab4d2;
+  color: black;
+  font-family: "Gochi Hand", sans-serif;
+}
+
+.feedback-container{
+  max-width: 200px;
+  border: solid;
+}
+
+.copylink-header{
+  background-color: #1ab4d2;
+  color: black;
+  font-family: "Gochi Hand", sans-serif;
+}
