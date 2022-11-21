@@ -6,7 +6,7 @@ import { mapImageURL } from '../../utils/mapImageURL';
 export const fetchResources = createAsyncThunk(
     'resources/fetchResources',
     async () => {
-        const response = await fetch(baseUrl + 'resources');
+        const response = await fetch(baseUrl + 'CYA/resources');
         if (!response.ok) {
             return Promise.reject('Unable to fetch, status: ' + response.status);
         }
