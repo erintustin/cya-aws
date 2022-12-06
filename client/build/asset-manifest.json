@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4469c802.css",
-    "main.js": "/static/js/main.3ab7df78.js",
+    "main.js": "/static/js/main.e074f6f8.js",
     "static/media/squishmallow.png": "/static/media/squishmallow.bcb4fd7190255a60f60f.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/CYAlogo.png": "/static/media/CYAlogo.121f4776369db4a2a58f.png",
@@ -16,10 +16,10 @@
     "static/media/autistic-again.png": "/static/media/autistic-again.d792a994546304002ec9.png",
     "index.html": "/index.html",
     "main.4469c802.css.map": "/static/css/main.4469c802.css.map",
-    "main.3ab7df78.js.map": "/static/js/main.3ab7df78.js.map"
+    "main.e074f6f8.js.map": "/static/js/main.e074f6f8.js.map"
   },
   "entrypoints": [
     "static/css/main.4469c802.css",
-    "static/js/main.3ab7df78.js"
+    "static/js/main.e074f6f8.js"
   ]
 }
